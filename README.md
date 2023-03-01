@@ -23,6 +23,7 @@ Love reading, here's blog post: https://www.netlify.com/blog/deploy-your-hugo-ap
   - [Removing Renovate](#removing-renovate)
   - [Removing Cypress](#removing-cypress)
 - [Want to learn more?](#want-to-learn-more)
+---
 
 ## Quick Setup + Deploy Option
 
